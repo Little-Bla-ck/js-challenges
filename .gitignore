@@ -2,3 +2,4 @@
 dist
 playground/*.mjs
 node_modules
+.idea
